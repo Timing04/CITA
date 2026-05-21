@@ -1,9 +1,10 @@
 # CITA: Chinese Implicit Toxicity Attack
 
 This repository releases a partial data subset used in the paper **"Harder to Defend: Towards Chinese Toxicity Attacks via Implicit Enhancement and Obfuscation Rewriting"**.
+`CITA` is a controlled red-team data generation framework for Chinese implicit toxicity. It is designed for **robustness evaluation** and **defense-data construction**, rather than for real-world harmful deployment.
+
 **To mitigate potential misuse risks, the complete model, dataset, and code will be released upon acceptance, subject to appropriate usage agreements and safety guidelines.**
 
-`CITA` is a controlled red-team data generation framework for Chinese implicit toxicity. It is designed for **robustness evaluation** and **defense-data construction**, rather than for real-world harmful deployment.
 
 ## Paper
 
